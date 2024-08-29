@@ -1,2 +1,2 @@
-# CSDLA
-A Chinese Specification Document Layout Analysis (CSDLA) dataset
+# CMDLA
+A Chinese Manual Document Layout Analysis (CMDLA) dataset
