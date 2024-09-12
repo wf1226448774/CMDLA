@@ -15,7 +15,10 @@ Sample JSON File
 
 We input the instruction manual document into the RPLM model to obtain both textual and visual representations of the document.  These representations are then used for image-text matching and structured text information extraction, which together help in constructing a knowledge graph for the manual.  Using the data mentioned above as an example, the visualization of the constructed manual knowledge graph is shown in the following figure:
 
-![graph (1)](https://github.com/user-attachments/assets/65c6f15a-176a-4732-bf4a-0a0da6e3bf32)
+
+![graph (2)](https://github.com/user-attachments/assets/a2481803-aafd-49f2-abc4-ca4955c16439)
+
+
 
 
 Please note that the dataset will be made publicly available after the paper review results are released.  Thank you for your understanding and support!
